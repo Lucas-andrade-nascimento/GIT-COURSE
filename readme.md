@@ -37,3 +37,5 @@ git branch 'name' - cria uma branch no repositorio local
 git log --oneline --decorate - mostra a branch que nos estamos
 
 git checkout 'name' - leva para a branch q queremos ir
+
+git merge 'name brach' - une as branches trazendo a branch que vc quer para a branch que voce esta
