@@ -31,3 +31,9 @@ git pull - puxa o estado atual do repo remoto e faz um merge com o seu local, ca
 git fetch  - puxa o estado atual do repo remoto mas nao faz o merge permitindo que use o:
 
 git diff orgin/'branch' - mostra a diferença entre o estado do repo remoto pro seu. Dando para analisar se voce quer fazer o pull
+
+git branch 'name' - cria uma branch no repositorio local 
+
+git log --oneline --decorate - mostra a branch que nos estamos
+
+git checkout 'name' - leva para a branch q queremos ir
