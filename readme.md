@@ -14,4 +14,10 @@ git add - manda os arquivo pro stage
 
 git commit -m "mensage" - comita o que vou para stage
 
+git log - mostra o historico de commits com os nomes dos autores e os hashcodes
 
+q - sai do gitbash no cli
+
+git restore 'nome do arquivo' - recupera uma modificação feita, remove as alterações
+
+git restore --staged 'nome do arquivo' - faz o mesmo, com um arquivo em stage
