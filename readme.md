@@ -21,3 +21,13 @@ q - sai do gitbash no cli
 git restore 'nome do arquivo' - recupera uma modificação feita, remove as alterações
 
 git restore --staged 'nome do arquivo' - faz o mesmo, com um arquivo em stage
+
+git remote - mostra as branch do repo remoto
+
+git push -u origin 'nome da branch' - sobe o commit para o repositorio remoto 
+
+git pull - puxa o estado atual do repo remoto e faz um merge com o seu local, caso vc nao faça nada 
+
+git fetch  - puxa o estado atual do repo remoto mas nao faz o merge permitindo que use o:
+
+git diff orgin/'branch' - mostra a diferença entre o estado do repo remoto pro seu. Dando para analisar se voce quer fazer o pull
