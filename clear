@@ -1,0 +1,17 @@
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex 9486dc4..35ff939 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -1,10 +1,10 @@[m
+[31m-#Notas uteis para o curso[m
+[32m+[m[32m# Notas uteis para o curso[m
+ [m
+ git clone 'link' - clona o repositorio pro seu pc [m
+ [m
+ git init - inicia um repositorio git na pasta local[m
+ [m
+[31m-git status mostra algumas infos sobre o repositorio [m
+[32m+[m[32mgit status - mostra algumas infos sobre o repositorio[m[41m [m
+ [m
+ git diff - mostra no terminal o que foi altereado, retirado ou colocado. Depois de comitado [m
+ [m
